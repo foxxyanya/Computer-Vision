@@ -6,5 +6,5 @@
 - Take 2 or more objects (which are not presented in COCO/OpenImages), take a photo of them, and label them
 - Train an object detection model
 &nbsp;
-###### My labeled dataset: [link](https://drive.google.com/drive/folders/1qqujiqzccghQPhcvrdY4jr6bsHcHzlg6?usp=sharing)
-###### Final mAP score on test data: 0.98
+##### My labeled dataset: [link](https://drive.google.com/drive/folders/1qqujiqzccghQPhcvrdY4jr6bsHcHzlg6?usp=sharing)
+##### Final mAP score on test data: 0.98
