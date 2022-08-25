@@ -1,6 +1,6 @@
 # Image Classification with PyTorch
 &nbsp;
-#### Task
+### Task
 ###### Create classificators and compare
 - KNN / SVM / Linear Classificator with classical features
     - Histogram of Oriented Gradients
