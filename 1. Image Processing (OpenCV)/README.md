@@ -1,11 +1,13 @@
 # Image Processing with OpenCV
 ##
 ### Task
-###### Using two images: 
+#### Using two images: 
 - gray scale image with high resolution
 <img src="https://github.com/foxxyanya/Computer-Vision-Course-2022/blob/main/1.%20Image%20Processing%20(OpenCV)/Images/GRAY.JPG" width="200" height="200" />
+&nbsp;
 - rotated RGB image with lower resolution
 <img src="https://github.com/foxxyanya/Computer-Vision-Course-2022/blob/main/1.%20Image%20Processing%20(OpenCV)/Images/RGB_quater.JPG" width="200" height="200" />
+&nbsp;
 ###### reconstruct RGB image of same resolution which the gray image has.
 ##
 ### Used techniques
@@ -15,5 +17,5 @@
 - pan-sharping techniques
 ##
 ### Reconstructed image:
-<img src="https://github.com/foxxyanya/Computer-Vision-Course-2022/blob/main/1.%20Image%20Processing%20(OpenCV)/Images/Output.JPG" width="400" height="400" />
+<img src="https://github.com/foxxyanya/Computer-Vision-Course-2022/blob/main/1.%20Image%20Processing%20(OpenCV)/Images/Output.JPG" width="200" height="200" />
 
