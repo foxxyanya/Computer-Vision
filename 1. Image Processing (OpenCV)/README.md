@@ -1,5 +1,4 @@
 # Image Processing with OpenCV
-##
 ### Task
 #### Using two images: 
 #### gray scale image with high resolution
