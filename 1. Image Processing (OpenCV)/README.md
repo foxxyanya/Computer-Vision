@@ -3,7 +3,9 @@
 ### Task
 ###### Using two images: 
 - gray scale image with high resolution
+<img src="https://github.com/foxxyanya/Computer-Vision-Course-2022/blob/main/1.%20Image%20Processing%20(OpenCV)/Images/GRAY.JPG" width="200" height="200" />
 - rotated RGB image with lower resolution
+<img src="https://github.com/foxxyanya/Computer-Vision-Course-2022/blob/main/1.%20Image%20Processing%20(OpenCV)/Images/RGB_quater.JPG" width="200" height="200" />
 ###### reconstruct RGB image of same resolution which the gray image has.
 ##
 ### Used techniques
@@ -12,9 +14,6 @@
 - finding homography based on the features
 - pan-sharping techniques
 ##
-### Input:
-<img src="https://github.com/foxxyanya/Computer-Vision-Course-2022/blob/main/1.%20Image%20Processing%20(OpenCV)/Images/RGB_quater.JPG" width="400" height="400" />
-<img src="https://github.com/foxxyanya/Computer-Vision-Course-2022/blob/main/1.%20Image%20Processing%20(OpenCV)/Images/GRAY.JPG" width="400" height="400" />
-### Output:
+### Reconstructed image:
 <img src="https://github.com/foxxyanya/Computer-Vision-Course-2022/blob/main/1.%20Image%20Processing%20(OpenCV)/Images/Output.JPG" width="400" height="400" />
 
