@@ -11,4 +11,4 @@
 - Tracking
 - Model optimization
 ## 
-<img src="https://github.com/foxxyanya/Computer-Vision-Course-2022/blob/main/4.%20Image%20Segmantation%20(MMSegmentation)/model_output.png"/>
+<img src="https://github.com/foxxyanya/Computer-Vision-Course-2022/blob/main/4.%20Image%20Segmentation%20(MMSegmentation)/model_output.png"/>
